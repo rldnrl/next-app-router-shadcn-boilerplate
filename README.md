@@ -17,14 +17,17 @@
 - Clone the created repository to your computer.
 - Download it using a package manager
   - yarn
+  
     ```
     yarn install
     ```
   - npm
+  
     ```
     npm install
     ```
   - pnpm
+  
     ```
     pnpm install
     ```
